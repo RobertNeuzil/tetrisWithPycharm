@@ -10,7 +10,7 @@ _____________________________
 
 [Block Layer, Collision logic]
 _____________________________
-![alt text](https://github.com/RobertNeuzil/tetrisWithPycharm/blob/main/Tetris_Block.png)
+![alt text](https://github.com/RobertNeuzil/tetrisWithPycharm/blob/main/Block_Formation.png)
 
 [Grid - Plan ]
 
